@@ -1,1 +1,0 @@
-# online-test-statik-script.js
